@@ -1,0 +1,63 @@
+C:\Users\hackeru\Desktop\Chess\bin\Debug\Chess.exe.config
+C:\Users\hackeru\Desktop\Chess\bin\Debug\Chess.exe
+C:\Users\hackeru\Desktop\Chess\bin\Debug\Chess.pdb
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.exe
+C:\Users\hackeru\Desktop\Chess\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\Chess2\Chess\bin\Debug\Chess.exe.config
+C:\Users\talef\Desktop\Chess2\Chess\bin\Debug\Chess.exe
+C:\Users\talef\Desktop\Chess2\Chess\bin\Debug\Chess.pdb
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.exe
+C:\Users\talef\Desktop\Chess2\Chess\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess\bin\Debug\Chess.exe.config
+C:\Users\talef\Desktop\ChessProject\Chess\bin\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess\bin\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\bin\Debug\Chess.exe.config
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\bin\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\bin\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.Form1.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Copy\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.Form1.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\bin\Debug\Chess.exe.config
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\bin\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Copy - Copy\bin\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.Form1.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\obj\Debug\Chess.pdb
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\bin\Debug\Chess.exe.config
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\bin\Debug\Chess.exe
+C:\Users\talef\Desktop\ChessProject\Chess - Cםפט\bin\Debug\Chess.pdb
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\bin\Debug\Chess.exe.config
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\bin\Debug\Chess.exe
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\bin\Debug\Chess.pdb
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\obj\Debug\Chess.exe
+C:\Users\talef\OneDrive\Desktop\Projects\Chess\obj\Debug\Chess.pdb

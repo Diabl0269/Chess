@@ -1,0 +1,3 @@
+Chess game made by Tal Efronny.
+Game only restarts by reseting the application.
+Stalemate notification pops out only when not in check, and then trying to do an illegal move.
